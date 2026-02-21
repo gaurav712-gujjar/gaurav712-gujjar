@@ -361,14 +361,12 @@ Go to **Actions → Generate Pac-Man Animation → Run workflow** ✅
 ```
 
 ---
-
-### 🌐 Game 6 — 3D Contribution Calendar
-
-> My contributions visualized in 3D — isometric view!
+### 🌐 Game 6 — Isometric 3D Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav712-gujjar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6b35&icon_color=ffbe0b&text_color=ffffff&count_private=true&include_all_commits=true" alt="3D Stats" width="480"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav712-gujjar&bg_color=0d0d0d&color=ff6b35&line=ff6b35&point=ffbe0b&area=true&area_color=1a0533&hide_border=true" alt="3D Activity Graph" width="100%"/>
+
 
 </div>
 
@@ -398,15 +396,11 @@ Go to **Actions → Generate Pac-Man Animation → Run workflow** ✅
 
 ---
 
-### 🌍 Game 9 — Visitor Map (Where My Visitors Come From)
-
-> People from around the world visit my profile!
+### 🌍 Game 9 — Profile Visitor Counter
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/gaurav712-gujjar/count.svg" alt="Visitor Count"/>
-
-[![](https://visitcount.itsvg.in/api?id=gaurav712-gujjar&label=Total%20Visitors&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://count.getloli.com/get/@gaurav712-gujjar?theme=rule34)
 
 </div>
 
