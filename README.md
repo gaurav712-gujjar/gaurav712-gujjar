@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:ff6b35&height=220&section=header&text=GAURAV%20GURJAR&fontSize=50&fontColor=ff6b35&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%7C+AI/ML+Engineer+%7C+Python+Dev&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:ff6b35&height=220&section=header&text=GAURAV%20GOCHER&fontSize=50&fontColor=ff6b35&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%7C+AI/ML+Engineer+%7C+Python+Dev&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=🔥+Data+Science+%26+AI/ML+Engineer;🧠+Machine+Learning+Deep+LearningExplorer;🚀+Open+Source+Contributor;📊+Turning+Data+into+Insights" alt="Typing SVG"/>
@@ -23,9 +23,9 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=300&height=30&lines=%3E_+whoami" alt="whoami"/>
 
 ```python
-class GauravGurjar:
+class GauravGocher:
 
-    name       = "Gaurav Gurjar"
+    name       = "Gaurav Gocher"
     location   = "Jaipur, Rajasthan 🇮🇳"
     role       = "AI/ML Engineer"
 
