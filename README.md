@@ -10,6 +10,14 @@
 &nbsp;
 <img src="https://img.shields.io/badge/BASED_IN-JAIPUR_🇮🇳-1a0533?style=for-the-badge"/>
 
+<br/><br/>
+
+**📌 Jump to:** [Why Hire Me](#-why-work-with-me) · [Skills](#-skills---all) · [Projects](#-projects---featured) · [Stats](#-stats---github) · [Contact](#-connect---now)
+
+<br/>
+
+`50k+ records processed` &nbsp;•&nbsp; `7+ AI workflows automated` &nbsp;•&nbsp; `5+ REST APIs shipped to prod` &nbsp;•&nbsp; `~40% manual effort cut via RAG`
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
@@ -35,6 +43,13 @@ class GauravGocher:
 ```
 
 <br clear="right"/>
+
+## 🎯 Why Work With Me
+
+- 🚀 **Shipped 5+ REST API endpoints** with FastAPI/Flask serving ML & AI models in production
+- 🤖 **Delivered 2+ AI applications** using LangChain, LLMs & RAG — cutting manual info-retrieval effort by ~40%
+- ⚙️ **Automated 7+ production n8n workflows** (AI agents, Groq LLM, WhatsApp/Telegram bots) — cutting manual ops effort by ~50%
+- 🧹 **Cleaned 50k+ records** across 5+ datasets, reducing data-cleaning time by ~35%
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
@@ -110,17 +125,27 @@ class GauravGocher:
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|:---|:---|:---|
-| 🏠 **[Real Estate WhatsApp AI Agent](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)** | WhatsApp assistant (Groq Llama 3.3 + OpenAI fallback) for property search & lead capture, English/Hinglish, with webhook verification & retry logic. | Flask, LangChain, Groq, WhatsApp Cloud API, SQLite |
-| 🛍️ **[VyapaarSetu](https://github.com/gaurav712-gujjar/vyapaarsetu)** | Omnichannel commerce platform for Indian small businesses — WhatsApp/Instagram/web storefront, Razorpay payments, event-queue pipeline with dead-letter handling. | FastAPI, MySQL, React, Razorpay, Groq LLM |
-| 🎧 **[Customer Support Agent](https://github.com/gaurav712-gujjar/Customer-Support-Agent)** | Multi-agent support system — intent detection → MySQL tool-calling agent → response generator, built purely on LangChain Agents (no LangGraph). | LangChain, Groq, MySQL, FastAPI |
-| ☎️ **[AI Calling Agent](https://github.com/gaurav712-gujjar/AI_Calling_Agent)** | Bilingual voice AI course counselor handling real-time calls, RAG-based course recommendations, objection handling, and CSV lead capture. | Python, VideoSDK, Gemini Live API, FAISS |
-| 📄 **[PDF Document Classifier](https://github.com/gaurav712-gujjar/pdf-document-classifier-ml)** | ML classifier sorting PDFs into 6 categories using TF-IDF + Logistic Regression, with confidence scoring and graceful handling of corrupted files. | Scikit-learn, NLTK, pdfplumber |
-| 📑 **[Resume Preprocessor](https://github.com/gaurav712-gujjar/Resume-Preprocessor)** | Resume parsing & preprocessing pipeline for extracting structured candidate data. | Python, NLP |
-| 🧠 **[CNN Image Classifier — DLOps Pipeline](https://github.com/gaurav712-gujjar/DLOP-S)** | Config-driven CNN pipeline (ingestion → training → evaluation → deployment) with DVC versioning & CI/CD validation. | TensorFlow/Keras, DVC, GitHub Actions |
-| ⚙️ **[N8N Workflows](https://github.com/gaurav712-gujjar/N8N-WORKFLOWS)** | Collection of production n8n automations — AI agents, Groq LLM, Telegram/WhatsApp bots, Google Sheets. | n8n, Groq, Automation |
-| 🎨 **[Trendy Website](https://github.com/gaurav712-gujjar/Trendy-Website)** | Modern responsive website build/experiment. | HTML, CSS, JS |
+| 🚀 Project | 📝 Description | 🛠️ Stack | Status |
+|:---|:---|:---|:---:|
+| 🏠 **[Real Estate WhatsApp AI Agent](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)** | WhatsApp assistant (Groq Llama 3.3 + OpenAI fallback) for property search & lead capture, English/Hinglish, with webhook verification & retry logic. | Flask, LangChain, Groq, WhatsApp Cloud API, SQLite | 🟢 Prod-ready |
+| 🛍️ **[VyapaarSetu](https://github.com/gaurav712-gujjar/vyapaarsetu)** | Omnichannel commerce platform for Indian small businesses — WhatsApp/Instagram/web storefront, Razorpay payments, event-queue pipeline with dead-letter handling. | FastAPI, MySQL, React, Razorpay, Groq LLM | 🟢 Prod-ready |
+| 🎧 **[Customer Support Agent](https://github.com/gaurav712-gujjar/Customer-Support-Agent)** | Multi-agent support system — intent detection → MySQL tool-calling agent → response generator, built purely on LangChain Agents (no LangGraph). | LangChain, Groq, MySQL, FastAPI | 🟢 Prod-ready |
+| ☎️ **[AI Calling Agent](https://github.com/gaurav712-gujjar/AI_Calling_Agent)** | Bilingual voice AI course counselor handling real-time calls, RAG-based course recommendations, objection handling, and CSV lead capture. | Python, VideoSDK, Gemini Live API, FAISS | 🟡 In Progress |
+| 📄 **[PDF Document Classifier](https://github.com/gaurav712-gujjar/pdf-document-classifier-ml)** | ML classifier sorting PDFs into 6 categories using TF-IDF + Logistic Regression, with confidence scoring and graceful handling of corrupted files. | Scikit-learn, NLTK, pdfplumber | 🟢 Prod-ready |
+| 📑 **[Resume Preprocessor](https://github.com/gaurav712-gujjar/Resume-Preprocessor)** | Resume parsing & preprocessing pipeline for extracting structured candidate data. | Python, NLP | 🔵 Experimental |
+| 🧠 **[CNN Image Classifier — DLOps Pipeline](https://github.com/gaurav712-gujjar/DLOP-S)** | Config-driven CNN pipeline (ingestion → training → evaluation → deployment) with DVC versioning & CI/CD validation. | TensorFlow/Keras, DVC, GitHub Actions | 🟢 Prod-ready |
+| ⚙️ **[N8N Workflows](https://github.com/gaurav712-gujjar/N8N-WORKFLOWS)** | Collection of production n8n automations — AI agents, Groq LLM, Telegram/WhatsApp bots, Google Sheets. | n8n, Groq, Automation | 🟢 Prod-ready |
+| 🎨 **[Trendy Website](https://github.com/gaurav712-gujjar/Trendy-Website)** | Modern responsive website build/experiment. | HTML, CSS, JS | 🔵 Experimental |
+
+*🟢 Production-ready &nbsp; 🟡 In Progress &nbsp; 🔵 Experimental*
+
+<br/>
+
+[![⭐ Star realestate-whatsapp-agent](https://img.shields.io/github/stars/gaurav712-gujjar/realestate-whatsapp-agent?style=for-the-badge&color=ff6b35&labelColor=1a0533)](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)
+&nbsp;
+[![⭐ Star vyapaarsetu](https://img.shields.io/github/stars/gaurav712-gujjar/vyapaarsetu?style=for-the-badge&color=ff6b35&labelColor=1a0533)](https://github.com/gaurav712-gujjar/vyapaarsetu)
+&nbsp;
+[![⭐ Star Customer-Support-Agent](https://img.shields.io/github/stars/gaurav712-gujjar/Customer-Support-Agent?style=for-the-badge&color=ff6b35&labelColor=1a0533)](https://github.com/gaurav712-gujjar/Customer-Support-Agent)
 
 </div>
 
