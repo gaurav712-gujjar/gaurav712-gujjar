@@ -137,8 +137,6 @@ class GauravGocher:
 | ⚙️ **[N8N Workflows](https://github.com/gaurav712-gujjar/N8N-WORKFLOWS)** | Collection of production n8n automations — AI agents, Groq LLM, Telegram/WhatsApp bots, Google Sheets. | n8n, Groq, Automation | 🟢 Prod-ready |
 | 🎨 **[Trendy Website](https://github.com/gaurav712-gujjar/Trendy-Website)** | Modern responsive website build/experiment. | HTML, CSS, JS | 🔵 Experimental |
 
-*🟢 Production-ready &nbsp; 🟡 In Progress &nbsp; 🔵 Experimental*
-
 <br/>
 
 [![⭐ Star realestate-whatsapp-agent](https://img.shields.io/github/stars/gaurav712-gujjar/realestate-whatsapp-agent?style=for-the-badge&color=ff6b35&labelColor=1a0533)](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)
@@ -255,11 +253,6 @@ jobs:
 ```
 
 ---
-
-### 🎲 Random Dev Joke
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d0d0d&borderColor=%23ff6b35&textColor=%23ffffff&qColor=%23ff6b35&aColor=%23ffbe0b&codeColor=%23ff6b35"/>
-</div>
 
 ### 💬 Random Dev Quote
 <div align="center">
