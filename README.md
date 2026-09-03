@@ -175,44 +175,6 @@ class GauravGocher:
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=420&height=30&lines=%3E_+games+%26+animations+--play"/>
 
-### 🐍 Snake Eats My Contributions
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/github-snake-dark.svg"/>
-  <img alt="Snake" src="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/github-snake-dark.svg" width="100%"/>
-</picture>
-</div>
-
-<details>
-<summary><b>⚙️ Setup — snake.yml</b></summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: gaurav712-gujjar
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
----
-
 ### 🟡 Pac-Man Eats My Contributions
 <div align="center">
 <picture>
