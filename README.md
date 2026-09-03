@@ -1,40 +1,33 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:ff6b35&height=220&section=header&text=GAURAV%20GOCHER&fontSize=50&fontColor=ff6b35&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%7C+AI/ML+Engineer+%7C+Python+Dev&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:ff6b35&height=220&section=header&text=GAURAV%20GOCHER&fontSize=50&fontColor=ff6b35&animation=fadeIn&fontAlignY=38&desc=AI/ML+Engineer+%7C+GenAI+%26+LLM+Applications&descAlignY=58&descSize=18&descColor=ffffff"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=🔥+Data+Science+%26+AI/ML+Engineer;🧠+Machine+Learning+Deep+LearningExplorer;🚀+Open+Source+Contributor;📊+Turning+Data+into+Insights" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+LLM-powered+Agents+%26+RAG+Systems;%F0%9F%9A%80+LangChain+%7C+Groq+%7C+Gemini+%7C+OpenAI;%F0%9F%93%A6+Shipping+Production-Ready+AI+APIs;%F0%9F%93%88+AI+Automation+%26+Workflow+Engineering" alt="Typing SVG"/>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=gaurav712-gujjar&style=for-the-badge&color=ff6b35&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=gaurav712-gujjar&style=for-the-badge&color=ff6b35&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ff6b35?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ff6b35?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BASED_IN-JAIPUR_🇮🇳-1a0533?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/BASED_IN-JAIPUR_🇮🇳-1a0533?style=for-the-badge"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-<!-- About -->
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=300&height=30&lines=%3E_+whoami" alt="whoami"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=300&height=30&lines=%3E_+whoami"/>
 
 ```python
 class GauravGocher:
-
     name       = "Gaurav Gocher"
+    role       = "AI/ML Engineer — GenAI & LLM Applications"
     location   = "Jaipur, Rajasthan 🇮🇳"
-    role       = "AI/ML Engineer"
+    current    = "Data Science Intern @ Regex Software Services"
 
-    passions   = [
-        "Machine Learning 🤖",
-        "Trading Analytics 📈",
-        "Startup & Automation 🚀",
-        "Open Source 🌍",
-        "NLP & Deep Learning 🧠"
+    stack = [
+        "LangChain", "RAG", "AI Agents", "Groq", "Gemini", "OpenAI",
+        "FastAPI / Flask", "Pinecone / Weaviate / FAISS", "n8n"
     ]
 
     def life_motto(self):
@@ -43,128 +36,105 @@ class GauravGocher:
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+current_work.sh" alt="current_work"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+current_work.sh"/>
 
 ```bash
 ╔══════════════════════════════════════════════════╗
-║  gaurav@data-lab:~$ cat active_projects.log      ║
+║  gaurav@ai-lab:~$ cat active_work.log            ║
 ╠══════════════════════════════════════════════════╣
-║  [✦] Data Analysis at REGex Software Services    ║
-║  [✦] Advanced Python — OOP & Data Structures     ║
-║  [✦] SQL Mastery — World DB & Employee DB        ║
-║  [✦] Building foundational ML & NLP skills       ║
-║  [✦] AI Crash Course for Startup teams           ║
-║  [✦] Trading Analytics & Quant experiments       ║
-║  gaurav@data-lab:~$ █                            ║
+║  [✦] Data Science Intern @ Regex Software Svcs   ║
+║  [✦] Building LLM apps: LangChain + RAG + Agents ║
+║  [✦] Deploying ML/AI models as FastAPI/Flask APIs║
+║  [✦] Automating ops with 7+ n8n AI workflows     ║
+║  [✦] WhatsApp / Telegram AI bots (Groq + OpenAI) ║
+║  [✦] MCP-based tool-calling agent experiments    ║
+║  gaurav@ai-lab:~$ █                              ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=320&height=30&lines=%3E_+skills+--all" alt="skills"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=320&height=30&lines=%3E_+skills+--all"/>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
 ### 💻 Languages
-<a href="#"><img src="https://img.shields.io/badge/Python-ff6b35?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-ff6b35?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/R-ff6b35?style=for-the-badge&logo=r&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MATLAB-ff6b35?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=1a0533"/></a>
+<img src="https://img.shields.io/badge/Python-ff6b35?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/SQL-ff6b35?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533"/>
 
-### 🤖 ML / DL
-<a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-ff6b35?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TensorFlow-ff6b35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Keras-ff6b35?style=for-the-badge&logo=keras&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PyTorch-2d1b69?style=for-the-badge&logo=pytorch&logoColor=ff6b35"/></a>
+### 🤖 GenAI / LLM
+<img src="https://img.shields.io/badge/LangChain-ff6b35?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/Hugging_Face-ff6b35?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/OpenAI-2d1b69?style=for-the-badge&logo=openai&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/Google_Gemini-2d1b69?style=for-the-badge&logo=googlegemini&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/Groq-2d1b69?style=for-the-badge&logoColor=ff6b35"/>
 
-### 📊 Data Tools
-<a href="#"><img src="https://img.shields.io/badge/NumPy-ff6b35?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Pandas-ff6b35?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Matplotlib-2d1b69?style=for-the-badge&logo=python&logoColor=ff6b35"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Seaborn-2d1b69?style=for-the-badge&logo=python&logoColor=ff6b35"/></a>
+### 📊 Data / ML
+<img src="https://img.shields.io/badge/Scikit_Learn-ff6b35?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/PyTorch-ff6b35?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/TensorFlow-2d1b69?style=for-the-badge&logo=tensorflow&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/Pandas-2d1b69?style=for-the-badge&logo=pandas&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/NumPy-2d1b69?style=for-the-badge&logo=numpy&logoColor=ff6b35"/>
 
 </td>
 <td valign="top" width="50%">
 
-### 🗄️ Databases
-<a href="#"><img src="https://img.shields.io/badge/MySQL-ff6b35?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-ff6b35?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-2d1b69?style=for-the-badge&logo=mongodb&logoColor=ff6b35"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Redis-2d1b69?style=for-the-badge&logo=redis&logoColor=ff6b35"/></a>
+### 🗄️ Vector DBs
+<img src="https://img.shields.io/badge/Pinecone-ff6b35?style=for-the-badge&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/Weaviate-ff6b35?style=for-the-badge&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/FAISS-2d1b69?style=for-the-badge&logoColor=ff6b35"/>
 
-### 📈 Visualization
-<a href="#"><img src="https://img.shields.io/badge/Power_BI-ff6b35?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tableau-ff6b35?style=for-the-badge&logo=tableau&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Plotly-2d1b69?style=for-the-badge&logo=plotly&logoColor=ff6b35"/></a>
-<a href="#"><img src="https://img.shields.io/badge/D3.js-2d1b69?style=for-the-badge&logo=d3dotjs&logoColor=ff6b35"/></a>
+### 🌐 Web / API
+<img src="https://img.shields.io/badge/FastAPI-ff6b35?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/Flask-2d1b69?style=for-the-badge&logo=flask&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/REST_APIs-2d1b69?style=for-the-badge&logoColor=ff6b35"/>
 
-### ☁️ Cloud & Big Data
-<a href="#"><img src="https://img.shields.io/badge/AWS-ff6b35?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GCP-ff6b35?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a0533"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Apache_Spark-2d1b69?style=for-the-badge&logo=apachespark&logoColor=ff6b35"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kafka-2d1b69?style=for-the-badge&logo=apachekafka&logoColor=ff6b35"/></a>
+### ☁️ Cloud / DevOps / Automation
+<img src="https://img.shields.io/badge/AWS-ff6b35?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/Docker-ff6b35?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2d1b69?style=for-the-badge&logo=githubactions&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/n8n-2d1b69?style=for-the-badge&logo=n8n&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/Zapier-2d1b69?style=for-the-badge&logo=zapier&logoColor=ff6b35"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+projects+--active" alt="projects"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+projects+--featured"/>
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech | 📊 Status |
-|:----------:|:---------------|:-------:|:---------:|
-| 🐍 **[Advanced Python](https://github.com/gaurav712-gujjar/Advance_Python-)** | Advanced OOP, data structures & algorithms | Python, Jupyter | ![](https://img.shields.io/badge/IN_PROGRESS-ff6b35?style=flat-square&labelColor=1a0533) |
-| 📈 **[Python Journey](https://github.com/gaurav712-gujjar/My-python-progress-)** | EDA, data wrangling & mini-projects | Python, Pandas | ![](https://img.shields.io/badge/IN_PROGRESS-ff6b35?style=flat-square&labelColor=1a0533) |
-| 🗃️ **[SQL Batch Practice](https://github.com/gaurav712-gujjar/SQL-batch-l4)** | Real-world queries, joins, window functions | MySQL, SQL | ![](https://img.shields.io/badge/IN_PROGRESS-ff6b35?style=flat-square&labelColor=1a0533) |
-| 🤖 **AI Crash Course** | Educational AI content for startup teams | Python, AI Tools | ![](https://img.shields.io/badge/IN_PROGRESS-ff6b35?style=flat-square&labelColor=1a0533) |
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|:---|:---|:---|
+| 🏠 **[Real Estate WhatsApp AI Agent](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)** | WhatsApp assistant (Groq Llama 3.3 + OpenAI fallback) for property search & lead capture, English/Hinglish, with webhook verification & retry logic. | Flask, LangChain, Groq, WhatsApp Cloud API, SQLite |
+| 🛍️ **[VyapaarSetu](https://github.com/gaurav712-gujjar/vyapaarsetu)** | Omnichannel commerce platform for Indian small businesses — WhatsApp/Instagram/web storefront, Razorpay payments, event-queue pipeline with dead-letter handling. | FastAPI, MySQL, React, Razorpay, Groq LLM |
+| 🎧 **[Customer Support Agent](https://github.com/gaurav712-gujjar/Customer-Support-Agent)** | Multi-agent support system — intent detection → MySQL tool-calling agent → response generator, built purely on LangChain Agents (no LangGraph). | LangChain, Groq, MySQL, FastAPI |
+| ☎️ **[AI Calling Agent](https://github.com/gaurav712-gujjar/AI_Calling_Agent)** | Bilingual voice AI course counselor handling real-time calls, RAG-based course recommendations, objection handling, and CSV lead capture. | Python, VideoSDK, Gemini Live API, FAISS |
+| 📄 **[PDF Document Classifier](https://github.com/gaurav712-gujjar/pdf-document-classifier-ml)** | ML classifier sorting PDFs into 6 categories using TF-IDF + Logistic Regression, with confidence scoring and graceful handling of corrupted files. | Scikit-learn, NLTK, pdfplumber |
+| 📑 **[Resume Preprocessor](https://github.com/gaurav712-gujjar/Resume-Preprocessor)** | Resume parsing & preprocessing pipeline for extracting structured candidate data. | Python, NLP |
+| 🧠 **[CNN Image Classifier — DLOps Pipeline](https://github.com/gaurav712-gujjar/DLOP-S)** | Config-driven CNN pipeline (ingestion → training → evaluation → deployment) with DVC versioning & CI/CD validation. | TensorFlow/Keras, DVC, GitHub Actions |
+| ⚙️ **[N8N Workflows](https://github.com/gaurav712-gujjar/N8N-WORKFLOWS)** | Collection of production n8n automations — AI agents, Groq LLM, Telegram/WhatsApp bots, Google Sheets. | n8n, Groq, Automation |
+| 🎨 **[Trendy Website](https://github.com/gaurav712-gujjar/Trendy-Website)** | Modern responsive website build/experiment. | HTML, CSS, JS |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+trophies+--earned" alt="trophies"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+trophies+--earned"/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav712-gujjar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav712-gujjar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=320&height=30&lines=%3E_+roadmap+--future" alt="roadmap"/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  [MISSION_01] ▸▸ DEEP LEARNING & ADVANCED AI                                    ║
-║  ║  ◈ Transformers & LLMs ─────────────────────────────── [ QUEUED ]            ║
-║  ║  ◈ Natural Language Processing ─────────────────────── [ QUEUED ]            ║
-║  ║  ◈ Computer Vision (Advanced) ──────────────────────── [ QUEUED ]            ║
-║  ║  ◈ Generative AI & Agentic Systems ─────────────────── [ QUEUED ]            ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  [MISSION_02] ▸▸ MLOPS & DEPLOYMENT                                             ║
-║  ║  ◈ Docker & Containerization ───────────────────────── [ QUEUED ]            ║
-║  ║  ◈ CI/CD for ML Pipelines ──────────────────────────── [ QUEUED ]            ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  [MISSION_03] ▸▸ BIG DATA & CLOUD                                               ║
-║  ║  ◈ Databricks & Snowflake ───────────────────────────── [ QUEUED ]           ║
-║  ║  ◈ AWS SageMaker & GCP Vertex AI ───────────────────── [ QUEUED ]            ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  [MISSION_04] ▸▸ TRADING & STARTUP ANALYTICS                                    ║
-║  ║  ◈ Algorithmic Trading & Backtesting ────────────────── [ QUEUED ]           ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  PROGRESS: ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  35% COMPLETE             ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=300&height=30&lines=%3E_+stats+--github" alt="stats"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=300&height=30&lines=%3E_+stats+--github"/>
 
 <div align="center">
 
@@ -178,264 +148,121 @@ class GauravGocher:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-<!--  ============================================================
-      🎮 GAMES & ANIMATIONS SECTION
-      ============================================================ -->
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=420&height=30&lines=%3E_+games+%26+animations+--play"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=420&height=30&lines=%3E_+games+%26+animations+--play" alt="games"/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║   🎮  INTERACTIVE GAMES & ANIMATIONS ZONE                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   All animations are live and auto-updating via GitHub Actions 🚀   ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-### 🐍 Game 1 — Snake Eats My Contributions
-
-> The classic! A snake eats through my GitHub contribution grid every day automatically.
-
+### 🐍 Snake Eats My Contributions
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/github-snake.svg"/>
-  <img alt="Snake eating GitHub contribution squares" src="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/github-snake-dark.svg" width="100%"/>
+  <img alt="Snake" src="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/github-snake-dark.svg" width="100%"/>
 </picture>
 </div>
 
 <details>
-<summary><b>⚙️ Setup — snake.yml workflow</b></summary>
-
-Create `.github/workflows/snake.yml`:
+<summary><b>⚙️ Setup — snake.yml</b></summary>
 
 ```yaml
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: gaurav712-gujjar
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-Go to **Actions → Generate Snake Animation → Run workflow** ✅
-
 </details>
 
 ---
 
-### 🌊 Game 2 — Pac-Man Eats My Contributions
-
-> Pac-Man chomps through my contribution graph — waka waka! 🟡
-
+### 🟡 Pac-Man Eats My Contributions
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/pacman.svg"/>
-  <img alt="Pac-Man eating GitHub contribution squares" src="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/pacman-dark.svg" width="100%"/>
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/gaurav712-gujjar/gaurav712-gujjar/output/pacman-dark.svg" width="100%"/>
 </picture>
 </div>
 
-<details>
-<summary><b>⚙️ Setup — pacman.yml workflow</b></summary>
-
-Create `.github/workflows/pacman.yml`:
-
-```yaml
-name: Generate Pac-Man Animation
-
-on:
-  schedule:
-    - cron: "0 1 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Pac-Man
-        uses: Platane/snk@v3
-        with:
-          github_user_name: gaurav712-gujjar
-          outputs: |
-            dist/pacman.svg?color_snake=yellow&color_dots=#ff6b35,#1a0533,#ffbe0b,#ff2d78,#ffffff
-            dist/pacman-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#ff6b35,#1a0533,#ffbe0b,#ff2d78,#ffffff
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-Go to **Actions → Generate Pac-Man Animation → Run workflow** ✅
-
-</details>
-
 ---
 
-### 🐱 Game 3 — Coding Cat (Animated GIF)
-
-> A little coding cat working hard — just like me at 2AM debugging! 😄
-
+### 🐱 Coding Cat
 <div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat animation"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Cat typing animation"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Working hard animation"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
 </div>
 
 ---
 
-### 🏆 Game 4 — GitHub Achievements Unlocked
-
-> My GitHub achievement badges — earned through open source contributions!
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaurav712-gujjar&theme=radical&no-frame=true&no-bg=true&row=1&column=8)](https://github.com/gaurav712-gujjar)
-
-</div>
-
----
-
-### 🎯 Game 5 — Skill Level Progress Bars (RPG Style)
-
-> My skills as an RPG character stat sheet ⚔️
+### 🎯 Skill Level Progress (RPG Style)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ⚔️  GAURAV GURJAR — DATA SCIENTIST CHARACTER STATS             ║
-║  Level: 35 | Class: Data Wizard | Guild: REGex Software         ║
+║  ⚔️  GAURAV GOCHER — AI/ML ENGINEER CHARACTER STATS              ║
+║  Class: GenAI Engineer | Guild: Regex Software Services         ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🐍 Python        [██████████████████░░]  90/100   ★★★★★      ║
-║  📊 Data Analysis [███████████████████░]  88/100   ★★★★★      ║
-║  🗃️  SQL           [████████████████░░░░]  80/100   ★★★★☆      ║
-║  🤖 Sci-kit Learn [████████████████░░░░]  82/100   ★★★★☆      ║
-║  📈 Power BI      [██████████████░░░░░░]  72/100   ★★★★☆      ║
-║  🧠 TensorFlow    [██████████████░░░░░░]  72/100   ★★★★☆      ║
-║  🔥 PyTorch       [████████████░░░░░░░░]  60/100   ★★★☆☆      ║
-║  💬 NLP           [█████████████░░░░░░░]  65/100   ★★★☆☆      ║
-║  ☁️  AWS/GCP       [████████████░░░░░░░░]  60/100   ★★★☆☆      ║
-║  📡 Apache Spark  [██████████░░░░░░░░░░]  55/100   ★★★☆☆      ║
-║                                                                  ║
-║  🏅 SPECIAL SKILLS:                                              ║
-║  Trading Analytics    [████████████████░░░░]  ★★★★☆            ║
-║  Startup Mindset      [█████████████████░░░]  ★★★★★            ║
-║  Problem Solving      [████████████████████]  ★★★★★            ║
+║  🐍 Python           [██████████████████░░]  90/100  ★★★★★     ║
+║  🤖 LangChain / RAG  [█████████████████░░░]  85/100  ★★★★★     ║
+║  📊 Data Analysis    [███████████████████░]  88/100  ★★★★★     ║
+║  🗃️  SQL              [████████████████░░░░]  80/100  ★★★★☆     ║
+║  🔗 AI Agents / MCP  [████████████████░░░░]  78/100  ★★★★☆     ║
+║  🧠 TensorFlow/PyTorch[██████████████░░░░░░] 70/100  ★★★★☆     ║
+║  ☁️  Cloud / Docker    [██████████████░░░░░░] 68/100  ★★★★☆     ║
+║  ⚙️  Automation (n8n) [████████████████░░░░] 80/100  ★★★★☆     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
-### 🌐 Game 6 — Isometric 3D Contribution Calendar
 
+### 🎲 Random Dev Joke
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav712-gujjar&bg_color=0d0d0d&color=ff6b35&line=ff6b35&point=ffbe0b&area=true&area_color=1a0533&hide_border=true" alt="3D Activity Graph" width="100%"/>
-
-
+<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d0d0d&borderColor=%23ff6b35&textColor=%23ffffff&qColor=%23ff6b35&aColor=%23ffbe0b&codeColor=%23ff6b35"/>
 </div>
 
----
-
-### 🎲 Game 7 — Random Dev Joke (Auto-refreshes!)
-
-> A fresh programming joke every time you visit! 😂
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d0d0d&borderColor=%23ff6b35&textColor=%23ffffff&qColor=%23ff6b35&aColor=%23ffbe0b&codeColor=%23ff6b35" alt="Random Dev Joke — refreshes on every visit"/>
-
-</div>
-
----
-
-### 💬 Game 8 — Random Motivational Dev Quote
-
-> A different inspiring quote for every visitor!
-
+### 💬 Random Dev Quote
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
----
-
-### 🌍 Game 9 — Profile Visitor Counter
-
+### 🌍 Profile Visitor Counter
 <div align="center">
 
-![Visitor Count](https://count.getloli.com/get/@gaurav712-gujjar?theme=rule34)
+![Visitors](https://count.getloli.com/get/@gaurav712-gujjar?theme=rule34)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-### 🔢 Game 10 — Wakatime Coding Activity (How Many Hours I Code)
-
-> Real-time coding stats — track how many hours I spend coding each week!
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-Python       █████████████████░░░░   68.4%
-SQL          ████████░░░░░░░░░░░░░   28.1%
-Jupyter      ██░░░░░░░░░░░░░░░░░░░    8.3%
-Markdown     █░░░░░░░░░░░░░░░░░░░░    3.2%
-```
-<!--END_SECTION:waka-->
-
-> 💡 **To activate live Wakatime stats:** Sign up at [wakatime.com](https://wakatime.com) → install the VS Code extension → add the [waka-readme](https://github.com/athul/waka-readme) GitHub Action
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
-
-<!-- Portfolio Section -->
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=400&height=30&lines=%3E_+portfolio+--preview" alt="portfolio"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=400&height=30&lines=%3E_+portfolio+--preview"/>
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║   🌐  MY 3D ANIME-INSPIRED PORTFOLIO WEBSITE                        ║
-║   ✦  Three.js 3D Rotating Data Sphere                               ║
+║   🌐  3D ANIME-INSPIRED PORTFOLIO WEBSITE                            ║
+║   ✦  Three.js 3D Rotating Data Sphere                                ║
 ║   ✦  Neon Particle Background Animation                              ║
-║   ✦  Interactive Project Cards with 3D Tilt                         ║
-║   ✦  Cyberpunk Anime Design — Dark + Orange Theme                   ║
-║   ✦  Fully Responsive — Mobile & Desktop                            ║
+║   ✦  Interactive Project Cards with 3D Tilt                          ║
+║   ✦  Cyberpunk Dark + Orange Theme, Fully Responsive                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -443,49 +270,23 @@ Markdown     █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=320&height=30&lines=%3E_+connect+--now" alt="connect"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=320&height=30&lines=%3E_+connect+--now"/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gauravgocher712/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=ff6b35"/>
-</a>
+<a href="https://www.linkedin.com/in/gauravgocher712/"><img src="https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=ff6b35"/></a>
 &nbsp;
-<a href="mailto:gujjargaurav712@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1a0533?style=for-the-badge&logo=gmail&logoColor=ff6b35"/>
-</a>
+<a href="mailto:gujjargaurav712@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a0533?style=for-the-badge&logo=gmail&logoColor=ff6b35"/></a>
 &nbsp;
-<a href="https://github.com/gaurav712-gujjar">
-  <img src="https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=ff6b35"/>
-</a>
+<a href="https://github.com/gaurav712-gujjar"><img src="https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=ff6b35"/></a>
 &nbsp;
-<a href="https://www.kaggle.com/">
-  <img src="https://img.shields.io/badge/Kaggle-1a0533?style=for-the-badge&logo=kaggle&logoColor=ff6b35"/>
-</a>
+<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-1a0533?style=for-the-badge&logo=kaggle&logoColor=ff6b35"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/gauravgocher712/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gujjargaurav712@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/gaurav712-gujjar">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="divider"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=15&duration=4000&pause=2000&color=FF6B35&center=true&vCenter=true&width=700&lines=%22Without+data%2C+you're+just+another+person+with+an+opinion.%22+—+Deming;%22Data+is+the+new+oil+—+I'm+here+to+refine+it.%22+🛢️➡️💎" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=15&duration=4000&pause=2000&color=FF6B35&center=true&vCenter=true&width=700&lines=%22Without+data%2C+you're+just+another+person+with+an+opinion.%22+—+Deming;%22Data+is+the+new+oil+—+I'm+here+to+refine+it.%22+🛢️➡️💎"/>
 
 <br/>
 
