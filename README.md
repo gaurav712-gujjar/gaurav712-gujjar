@@ -149,12 +149,6 @@ class GauravGocher:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=380&height=30&lines=%3E_+trophies+--earned"/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav712-gujjar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF6B35&vCenter=true&width=300&height=30&lines=%3E_+stats+--github"/>
