@@ -125,17 +125,17 @@ class GauravGocher:
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Stack | Status |
-|:---|:---|:---|:---:|
-| 🏠 **[Real Estate WhatsApp AI Agent](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)** | WhatsApp assistant (Groq Llama 3.3 + OpenAI fallback) for property search & lead capture, English/Hinglish, with webhook verification & retry logic. | Flask, LangChain, Groq, WhatsApp Cloud API, SQLite | 🟢 Prod-ready |
-| 🛍️ **[VyapaarSetu](https://github.com/gaurav712-gujjar/vyapaarsetu)** | Omnichannel commerce platform for Indian small businesses — WhatsApp/Instagram/web storefront, Razorpay payments, event-queue pipeline with dead-letter handling. | FastAPI, MySQL, React, Razorpay, Groq LLM | 🟢 Prod-ready |
-| 🎧 **[Customer Support Agent](https://github.com/gaurav712-gujjar/Customer-Support-Agent)** | Multi-agent support system — intent detection → MySQL tool-calling agent → response generator, built purely on LangChain Agents (no LangGraph). | LangChain, Groq, MySQL, FastAPI | 🟢 Prod-ready |
-| ☎️ **[AI Calling Agent](https://github.com/gaurav712-gujjar/AI_Calling_Agent)** | Bilingual voice AI course counselor handling real-time calls, RAG-based course recommendations, objection handling, and CSV lead capture. | Python, VideoSDK, Gemini Live API, FAISS | 🟡 In Progress |
-| 📄 **[PDF Document Classifier](https://github.com/gaurav712-gujjar/pdf-document-classifier-ml)** | ML classifier sorting PDFs into 6 categories using TF-IDF + Logistic Regression, with confidence scoring and graceful handling of corrupted files. | Scikit-learn, NLTK, pdfplumber | 🟢 Prod-ready |
-| 📑 **[Resume Preprocessor](https://github.com/gaurav712-gujjar/Resume-Preprocessor)** | Resume parsing & preprocessing pipeline for extracting structured candidate data. | Python, NLP | 🔵 Experimental |
-| 🧠 **[CNN Image Classifier — DLOps Pipeline](https://github.com/gaurav712-gujjar/DLOP-S)** | Config-driven CNN pipeline (ingestion → training → evaluation → deployment) with DVC versioning & CI/CD validation. | TensorFlow/Keras, DVC, GitHub Actions | 🟢 Prod-ready |
-| ⚙️ **[N8N Workflows](https://github.com/gaurav712-gujjar/N8N-WORKFLOWS)** | Collection of production n8n automations — AI agents, Groq LLM, Telegram/WhatsApp bots, Google Sheets. | n8n, Groq, Automation | 🟢 Prod-ready |
-| 🎨 **[Trendy Website](https://github.com/gaurav712-gujjar/Trendy-Website)** | Modern responsive website build/experiment. | HTML, CSS, JS | 🔵 Experimental |
+| 🚀 Project | 🛠️ Stack |
+|:---|:---|
+| 🏠 **[Real Estate WhatsApp AI Agent](https://github.com/gaurav712-gujjar/realestate-whatsapp-agent)** | Flask, LangChain, Groq, WhatsApp Cloud API, SQLite |
+| 🛍️ **[VyapaarSetu](https://github.com/gaurav712-gujjar/vyapaarsetu)** | FastAPI, MySQL, React, Razorpay, Groq LLM |
+| 🎧 **[Customer Support Agent](https://github.com/gaurav712-gujjar/Customer-Support-Agent)** | LangChain, Groq, MySQL, FastAPI |
+| ☎️ **[AI Calling Agent](https://github.com/gaurav712-gujjar/AI_Calling_Agent)** | Python, VideoSDK, Gemini Live API, FAISS |
+| 📄 **[PDF Document Classifier](https://github.com/gaurav712-gujjar/pdf-document-classifier-ml)** | Scikit-learn, NLTK, pdfplumber |
+| 📑 **[Resume Preprocessor](https://github.com/gaurav712-gujjar/Resume-Preprocessor)** | Python, NLP |
+| 🧠 **[CNN Image Classifier — DLOps Pipeline](https://github.com/gaurav712-gujjar/DLOP-S)** | TensorFlow/Keras, DVC, GitHub Actions |
+| ⚙️ **[N8N Workflows](https://github.com/gaurav712-gujjar/N8N-WORKFLOWS)** | n8n, Groq, Automation |
+| 🎨 **[Trendy Website](https://github.com/gaurav712-gujjar/Trendy-Website)** | HTML, CSS, JS |
 
 <br/>
 
